@@ -1,0 +1,2 @@
+# LMC
+little manj computer
